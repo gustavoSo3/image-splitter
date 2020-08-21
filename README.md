@@ -30,8 +30,8 @@ for a list of command arguments you can add, such as change the number of horizo
 ---
 
 ### To Add:
-- [] Relative path flag.  
-- [] Add error and exceptions handlers.
+- [ ] Relative path flag.  
+- [ ] Add error and exceptions handlers.
 
 ---
 
