@@ -1,5 +1,5 @@
 # Image Splitter
-I have a MacOS multiple desktop setup making a little harder to set a desktop background on a spam configuration as you would do in Windows. So I decided to make a simple scrip to split any image into the desire amount of "screens".
+I have a MacOS multiple desktop setup making a little harder to set a desktop background on a spam configuration as you would do in Windows. So I decided to make a simple script to split any image into the desire amount of "screens".
 
 ---
 
